@@ -28,3 +28,9 @@ So basically, given a training set we try to derive a hypothesis function **h** 
 How to fit the best possible straight line to data
 
 In linear regression  ,we want to find a cost function h(x) =c + mx which somehow fits are data well enough to draw new inferences.
+
+[Understanding cost function associated with linear regression and its minimization](https://www.coursera.org/learn/machine-learning/supplement/u3qF5/cost-function-intuition-i)
+
+[Minimizing cost function - Using contour plots](https://www.coursera.org/learn/machine-learning/supplement/9SEeJ/cost-function-intuition-ii)
+
+[Gradient Descent variations with changes in alpha](https://www.coursera.org/learn/machine-learning/supplement/QKEdR/gradient-descent-intuition)
