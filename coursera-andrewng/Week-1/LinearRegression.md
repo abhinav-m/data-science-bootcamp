@@ -34,3 +34,5 @@ In linear regression  ,we want to find a cost function h(x) =c + mx which someho
 [Minimizing cost function - Using contour plots](https://www.coursera.org/learn/machine-learning/supplement/9SEeJ/cost-function-intuition-ii)
 
 [Gradient Descent variations with changes in alpha](https://www.coursera.org/learn/machine-learning/supplement/QKEdR/gradient-descent-intuition)
+
+
