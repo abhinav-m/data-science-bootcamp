@@ -1,0 +1,2 @@
+# Further reading:
+* [Multiple variables and normal equations summary](https://d3c33hcgiwev3.cloudfront.net/_7532aa933df0e5055d163b77102ff2fb_Lecture4.pdf?Expires=1587427200&Signature=g4hJBOk74eCkn7Hmp1nn82toPJT6Qn04vDVkXvz50vYYQSlU6AVYdxrEjPxtXnDTwjzX2daIvPLnkyTGtXdpWI3nyrDQ19xvhPcw5fdLacqqr7fU4n0GUxzcBwprr0~MM9RA9o5mnLPzbJ70c~tvar3IcJ9x501lqEDFqulHaiU_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
