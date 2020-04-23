@@ -10,6 +10,7 @@
 - Squared difference function - why?
 - Non invertible matrices due to dependant equations - why?
 - Normal equation derivation
+- Logistic function/ Sigmoid function (Week 3 logistic regression)
 
 ### Course extra material
 
