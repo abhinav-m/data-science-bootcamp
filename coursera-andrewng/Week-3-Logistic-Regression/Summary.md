@@ -1,0 +1,3 @@
+# All lecture slides
+
+[Further reading upto lecture 7](https://d3c33hcgiwev3.cloudfront.net/_964b8d77dc0ee6fd42ac7d8a70c4ffa1_Lecture6.pdf?Expires=1588032000&Signature=Uocip0XB2gtFENflu9NgYwx0w58qIYDEjiXeoYv2BMFWTYKVpOglTffsGmABDU0PmsEYA9Adx5gCCMM6CZHFOOLIj5-ZCLZWiaon~mqpVBL9bsd0aK4ykyGh3sDFn16UsP5sCDYuLLHMPwAx5NAlFRMYesIZX6yEhY~ASGNpaiQ_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
