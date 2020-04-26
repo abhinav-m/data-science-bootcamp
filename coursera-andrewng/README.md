@@ -16,3 +16,4 @@
 
 - Week 2 matlab quiz ( improve grade ). Completed on 24-04-2020
 - Week 2 optional programming assignments
+- Week 3 Logistic regression quiz ( improve grade ).
