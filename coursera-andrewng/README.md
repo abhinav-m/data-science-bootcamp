@@ -12,6 +12,7 @@
 - Normal equation derivation
 - Logistic function/ Sigmoid function (Week 3 logistic regression)
 - Why ignore first theta value in regularized logistic regression?
+- Digit classification problem (learn more) (neural networks)
 
 ### Course extra material
 
