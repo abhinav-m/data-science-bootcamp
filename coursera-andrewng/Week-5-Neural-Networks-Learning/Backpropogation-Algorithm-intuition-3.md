@@ -13,3 +13,5 @@ The following image summarises the intuition behind neural network backward prop
 ![Backward propogation intuition](images/backward-propogation-intuition.png)
 
 > A quick summary of the image is that to calculate the delta value of any layer element, we multiply it with the theta values of that element ( which would be a vector) and delta values of next layer and sum them. The last layer delta is simply the prediction - output values given. More intuition can be drawn from the above figure.
+
+[Backpropogation explained](https://www.coursera.org/learn/machine-learning/supplement/v5Bu8/backpropagation-intuition)
