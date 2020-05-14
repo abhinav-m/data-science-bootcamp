@@ -18,11 +18,13 @@
 ### Course extra material
 
 - Week 2 matlab quiz ( improve grade ). Completed on 24-04-2020
-- Week 2 optional programming assignments & companion ex
+- Week 3 optional programming assignments & companion ex
 - Week 3 Logistic regression quiz ( improve grade ). Completed on 28-04-2020
 - Week 3 optional programming assignments & companion ex
 - Week 4 optional exercise - Completed on 10-05-2020
 - Week 4 companion ex and vectorized implementation of NN
+- Week 6 optional exercises
+- Week 6 companion exercises
 
 ### Extra Study
 
