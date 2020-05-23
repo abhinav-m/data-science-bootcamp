@@ -14,6 +14,7 @@
 - Why ignore first theta value in regularized logistic regression?
 - Digit classification problem (learn more) (neural networks)
 - Derivations of back propogation derivatives ( neural networks)
+- Mercers theorem and SVM
 
 ### Course extra material
 
