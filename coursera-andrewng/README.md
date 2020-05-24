@@ -24,8 +24,8 @@
 - Week 3 optional programming assignments & companion ex
 - Week 4 optional exercise - Completed on 10-05-2020
 - Week 4 companion ex and vectorized implementation of NN
-- Week 6 optional exercises
-- Week 6 companion exercises
+- Week 6 optional exercises and Week 6 companion exercises
+- Week 7 optional and companion exercises
 
 ### Extra Study
 
