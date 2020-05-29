@@ -15,6 +15,7 @@
 - Digit classification problem (learn more) (neural networks)
 - Derivations of back propogation derivatives ( neural networks)
 - Mercers theorem and SVM
+- PCA algorithm derivation
 
 ### Course extra material
 
