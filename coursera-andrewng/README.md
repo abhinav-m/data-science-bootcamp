@@ -27,6 +27,8 @@
 - Week 4 companion ex and vectorized implementation of NN
 - Week 6 optional exercises and Week 6 companion exercises
 - Week 7 optional and companion exercises
+- Week 8 optional exercises and vectorized implementation - Completed on 03-06-2020
+- Week 8 companion exercises - Todo
 
 ### Extra Study
 
