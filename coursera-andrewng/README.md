@@ -1,4 +1,4 @@
-# Machine learning course by andrew Ng (Stanford)
+# Machine learning course by Andrew Ng (Stanford)
 
 ## TODO
 
