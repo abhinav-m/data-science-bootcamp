@@ -16,6 +16,7 @@
 - Derivations of back propogation derivatives ( neural networks)
 - Mercers theorem and SVM
 - PCA algorithm derivation
+- Low rank matrix 
 
 ### Course extra material
 
@@ -29,6 +30,7 @@
 - Week 7 optional and companion exercises
 - Week 8 optional exercises and vectorized implementation - Completed on 03-06-2020
 - Week 8 companion exercises - Todo
+- Week 9 Optional lectures on multi variate gaussian distributions
 
 ### Extra Study
 
