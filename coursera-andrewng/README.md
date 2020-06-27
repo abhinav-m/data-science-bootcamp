@@ -35,3 +35,7 @@
 ### Extra Study
 
 - [Convex function explained](https://www.youtube.com/watch?v=Sre_s1dFQmE) 29-04-2020
+
+
+### Certificate
+- [Intro to machine learning certificate](../certificates/Coursera-Intro-To-ML.pdf)
