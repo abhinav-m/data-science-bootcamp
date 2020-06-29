@@ -39,3 +39,4 @@
 
 ### Certificate
 - [Intro to machine learning certificate](../certificates/Coursera-Intro-To-ML.pdf)
+- [Kaggle mini courses certificates](../certificates/kaggle)
