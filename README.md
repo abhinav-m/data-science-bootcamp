@@ -9,6 +9,7 @@ A repository curating all my resources and tracking progress towards my goal of 
 
 ## Data manipulation
 
-* [Kaggle mini course on pandas](https://www.kaggle.com/learn/pandas) -> Completed on 26-06-2020
-* [Kaggle mini coure Introduction to SQL](https://www.kaggle.com/learn/intro-to-sql) -> Completed on 27-06-2020
+* [Kaggle mini course - Pandas](https://www.kaggle.com/learn/pandas) -> Completed on 26-06-2020
+* [Kaggle mini course - Introduction to SQL](https://www.kaggle.com/learn/intro-to-sql) -> Completed on 27-06-2020
+* [Kaggle mini course - Advanced SQL](https://www.kaggle.com/learn/advanced-sql) -> Completed on 30-06-2020
   
