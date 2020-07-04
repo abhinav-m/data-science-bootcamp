@@ -6,6 +6,7 @@
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
+* Why using same scaler instance on both training and test set in feature scaling? -> Asked on 04-07-2020
 
 ## Important Links
 * [Datasets and code google drive link](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d)
