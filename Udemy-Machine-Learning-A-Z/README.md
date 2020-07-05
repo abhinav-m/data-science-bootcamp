@@ -1,7 +1,8 @@
 # Summary
 
 ## Breakdown
-* Part 1 - Data preprocessing - Currently pursuing
+* Part 1 - Data preprocessing - Completed on 04-07-2020
+* Part 2 - Regression - Currently pursuing
 
 
 ## Doubts
