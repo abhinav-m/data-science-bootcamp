@@ -9,3 +9,4 @@
 * [Lecture-2-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5772186#overview)
 
 ## Multiple Linear regression
+*[Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5772040#overview)
