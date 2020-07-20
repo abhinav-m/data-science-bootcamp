@@ -1,6 +1,6 @@
 # Summary
 
-> Regression tutorial from Udemy
+> Regression tutorial from Udemy with solved notebooks
 
 ## Lectures
 
