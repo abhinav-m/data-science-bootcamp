@@ -15,3 +15,6 @@
 * [Lecture-4-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5772050#questions)
 * [Lecture-5-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5772052#questions)
 * [Understanding-p-value (Statistical significance)](https://www.udemy.com/course/machinelearning/learn/lecture/20160564#questions)
+
+## Polynomial Regression
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732728#notes)

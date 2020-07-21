@@ -5,7 +5,7 @@
 * Part 2 - Regression - Currently pursuing
     * Simple Linear regression - Completed on 06-07-2020
     * Multiple Linear regression - Completed on 20-07-2020
-    * 
+    * Polynomial Regression - Currently pursuing 
 
 
 ## Doubts
