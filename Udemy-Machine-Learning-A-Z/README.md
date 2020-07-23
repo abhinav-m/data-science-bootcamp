@@ -22,6 +22,9 @@
 ## Todo:
 * [Multi linear Regression Backward elimination bonus -1](https://www.dropbox.com/sh/pknk0g9yu4z06u7/AADSTzieYEMfs1HHxKHt9j1ba?dl=0)
 * [Multi linear regression Bonus Exercise 2](https://www.superdatascience.com/pages/ml-regression-bonus-2)
+* Least Square Difference and Support Vector Regression reading
+* Least Square - Find literature
+* [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
 
 
 
