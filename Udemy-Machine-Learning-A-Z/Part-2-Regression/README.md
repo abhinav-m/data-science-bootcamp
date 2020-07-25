@@ -20,7 +20,10 @@
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732728#notes)
 
 
-## Support Vector Regressionj
+## Support Vector Regression
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/19505880#overview)
 * [Lecture-1-Additional-Reading](https://core.ac.uk/download/pdf/81523322.pdf)
 * [Non-Linear-SVR-Heads-up](https://www.udemy.com/course/machinelearning/learn/lecture/19505904#overview)
+
+## Decision Tree Regression
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732730#overview)
