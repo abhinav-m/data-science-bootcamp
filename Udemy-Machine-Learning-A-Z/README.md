@@ -7,7 +7,7 @@
     * Multiple Linear regression - Completed on 20-07-2020
     * Polynomial Regression - Completed on 23-07-2020
     * Support Vector Regression - Completed on 25-07-2020
-    * Decision Tree Regression - Currently Pursuing
+    * Decision Tree Regression - Completed on 27-07-2020
 
 
 ## Doubts
