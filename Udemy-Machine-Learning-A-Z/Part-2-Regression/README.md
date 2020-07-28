@@ -27,3 +27,6 @@
 
 ## Decision Tree Regression
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732730#overview)
+
+## Random Forest Regression
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732732#overview)
