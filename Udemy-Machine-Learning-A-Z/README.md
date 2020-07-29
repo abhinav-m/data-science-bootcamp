@@ -8,7 +8,7 @@
     * Polynomial Regression - Completed on 23-07-2020
     * Support Vector Regression - Completed on 25-07-2020
     * Decision Tree Regression - Completed on 27-07-2020 
-    * Random forest Regression - Currently pursuing
+    * Random forest Regression - Completed on 29-07-2020
 
 
 ## Doubts
