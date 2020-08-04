@@ -9,6 +9,7 @@
     * Support Vector Regression - Completed on 25-07-2020
     * Decision Tree Regression - Completed on 27-07-2020 
     * Random forest Regression - Completed on 29-07-2020
+    * Evaluating Regression Models performance - Completed on 04-08-2020
 
 
 ## Doubts
@@ -28,6 +29,7 @@
 * Least Square Difference and Support Vector Regression reading
 * Least Square - Find literature
 * [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
+* R Square adjusted - notes
 
 
 

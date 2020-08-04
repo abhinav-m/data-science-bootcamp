@@ -30,3 +30,7 @@
 
 ## Random Forest Regression
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732732#overview)
+
+## Evaluating Regression Models Performance
+* [R-Squared-Intuition-Lecture-1](https://www.udemy.com/course/machinelearning/learn/lecture/19041246?start=1#overview)
+* [R-Squared-Intuition-Lecture-2](https://www.udemy.com/course/machinelearning/learn/lecture/5773214#overview)
