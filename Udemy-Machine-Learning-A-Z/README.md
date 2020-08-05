@@ -10,6 +10,7 @@
     * Decision Tree Regression - Completed on 27-07-2020 
     * Random forest Regression - Completed on 29-07-2020
     * Evaluating Regression Models performance - Completed on 04-08-2020
+    * Choosing a regression model - Currently Pursuing
 
 
 ## Doubts
