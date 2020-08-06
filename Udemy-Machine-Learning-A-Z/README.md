@@ -2,7 +2,7 @@
 
 ## Breakdown
 * Part 1 - Data preprocessing - Completed on 04-07-2020
-* Part 2 - Regression - Currently pursuing
+* Part 2 - Regression - Completed on 06-08-2020
     * Simple Linear regression - Completed on 06-07-2020
     * Multiple Linear regression - Completed on 20-07-2020
     * Polynomial Regression - Completed on 23-07-2020
@@ -10,7 +10,7 @@
     * Decision Tree Regression - Completed on 27-07-2020 
     * Random forest Regression - Completed on 29-07-2020
     * Evaluating Regression Models performance - Completed on 04-08-2020
-    * Choosing a regression model - Currently Pursuing
+    * Choosing a regression model - Completed on 06-08-2020
 
 
 ## Doubts
