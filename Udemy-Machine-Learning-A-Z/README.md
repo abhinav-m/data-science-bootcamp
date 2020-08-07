@@ -11,7 +11,8 @@
     * Random forest Regression - Completed on 29-07-2020
     * Evaluating Regression Models performance - Completed on 04-08-2020
     * Choosing a regression model - Completed on 06-08-2020
-
+* Part 3- Classification - Currently Pursuing
+    * Logistic Regression - Currently Pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
