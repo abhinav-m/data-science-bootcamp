@@ -12,7 +12,7 @@
     * Evaluating Regression Models performance - Completed on 04-08-2020
     * Choosing a regression model - Completed on 06-08-2020
 * Part 3- Classification - Currently Pursuing
-    * Logistic Regression - Currently Pursuing
+    * Logistic Regression - Completed on 08-08-2020
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
@@ -32,6 +32,7 @@
 * Least Square - Find literature
 * [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
 * R Square adjusted - notes
+* [Blog for understanding regression and classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification)
 
 
 
