@@ -33,6 +33,7 @@
 * [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
 * R Square adjusted - notes
 * [Blog for understanding regression and classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification)
+* [Practical case study - Logistic Regression](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/?referralCode=7E62BC258B645C95D9F5)
 
 
 
