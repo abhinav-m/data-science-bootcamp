@@ -10,3 +10,6 @@
 
 ## K Nearest Neighbours
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5714404#overview)
+
+## SVM 
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/19686976#overview)
