@@ -13,7 +13,8 @@
     * Choosing a regression model - Completed on 06-08-2020
 * Part 3 - Classification - Currently Pursuing
     * Logistic Regression - Completed on 08-08-2020
-    * K Nearest Neighbours - Completed on 09-08-2020
+    * K Nearest Neighbours - Completed on 09-08-2020 
+    * SVM - Completed on 17-08-2020
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
