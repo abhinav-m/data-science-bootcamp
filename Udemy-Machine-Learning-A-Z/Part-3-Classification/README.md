@@ -13,3 +13,9 @@
 
 ## SVM 
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/19686976#overview)
+
+## Kernel - SVM
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/6113144#overview)
+* [Lecture-2-Mapping-To-Higher-Dimension](https://www.udemy.com/course/machinelearning/learn/lecture/6113148#overview)
+* [Lecture-3-The-Kernel-Trick](https://www.udemy.com/course/machinelearning/learn/lecture/6113150#overview)
+* [Lecture-4-Types-of-Kernels](https://www.udemy.com/course/machinelearning/learn/lecture/6113152#overview)
