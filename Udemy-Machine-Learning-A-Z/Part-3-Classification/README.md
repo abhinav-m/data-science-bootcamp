@@ -19,3 +19,4 @@
 * [Lecture-2-Mapping-To-Higher-Dimension](https://www.udemy.com/course/machinelearning/learn/lecture/6113148#overview)
 * [Lecture-3-The-Kernel-Trick](https://www.udemy.com/course/machinelearning/learn/lecture/6113150#overview)
 * [Lecture-4-Types-of-Kernels](https://www.udemy.com/course/machinelearning/learn/lecture/6113152#overview)
+* [Lecture-5-Non-Linear-Kernel-SVM](https://www.udemy.com/course/machinelearning/learn/lecture/19505940#overview)
