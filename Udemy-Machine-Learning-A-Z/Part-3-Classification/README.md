@@ -22,4 +22,5 @@
 * [Lecture-5-Non-Linear-Kernel-SVM](https://www.udemy.com/course/machinelearning/learn/lecture/19505940#overview)
 
 ## Naive Bayes
-* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732736#overview)
+* [Lecture-1-Bayes-Theorem](https://www.udemy.com/course/machinelearning/learn/lecture/5732736#overview)
+* [Lecture-2-Naive-Bayes-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732738#overview)
