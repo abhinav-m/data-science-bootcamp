@@ -25,3 +25,7 @@
 * [Lecture-1-Bayes-Theorem](https://www.udemy.com/course/machinelearning/learn/lecture/5732736#overview)
 * [Lecture-2-Naive-Bayes-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5732738#overview)
 * [Lecture-3-Intuition-Extras](https://www.udemy.com/course/machinelearning/learn/lecture/5732742#overview)
+  
+
+## Decision tree classification
+* [Lecture-1-Decision-Tree-Classification](https://www.udemy.com/course/machinelearning/learn/lecture/5714410#overview)
