@@ -17,7 +17,7 @@
     * SVM - Completed on 17-08-2020
     * Kernel SVM - Completed on 20-08-2020
     * Naive Bayes - Completed on 23-08-2020
-    * Decision Trees - Currently pursuing
+    * Decision Trees - Completed on 25-08-2020
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
