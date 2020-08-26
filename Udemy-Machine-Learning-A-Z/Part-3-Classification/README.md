@@ -29,3 +29,4 @@
 
 ## Decision tree classification
 * [Lecture-1-Decision-Tree-Classification](https://www.udemy.com/course/machinelearning/learn/lecture/5714410#overview)
+* [Lecture-2-Random-Forest-Classification](https://www.udemy.com/course/machinelearning/learn/lecture/5714412#overview)
