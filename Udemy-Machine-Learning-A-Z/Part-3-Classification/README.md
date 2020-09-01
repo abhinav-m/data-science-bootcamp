@@ -32,3 +32,8 @@
   
 ## Random forest classification
 * [Lecture-1-Random-Forest-Classification](https://www.udemy.com/course/machinelearning/learn/lecture/5714412#overview)
+
+## Evaluating Regression model performance
+* [False Positives And False Negatives](https://www.udemy.com/course/machinelearning/learn/lecture/5773378#overview) 
+* [Confusion Matrix](https://www.udemy.com/course/machinelearning/learn/lecture/5773382#overview)
+* [Accuracy Paradox](https://www.udemy.com/course/machinelearning/learn/lecture/5773388#overview)
