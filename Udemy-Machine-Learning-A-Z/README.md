@@ -31,6 +31,8 @@
 ## Important Links
 * [Datasets and code google drive link](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d)
 * [M L Summary and FAQ PDF](./material/Machine_Learning_A_Z_Q_A.pdf)
+* [Regression Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
+* [Classification Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
 
 ## Todo:
 * [Multi linear Regression Backward elimination bonus -1](https://www.dropbox.com/sh/pknk0g9yu4z06u7/AADSTzieYEMfs1HHxKHt9j1ba?dl=0)
@@ -44,6 +46,7 @@
 * [Types of Kernels - Kernel SVMS](http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/)
 * [Types of Kernels - Kernel SVMS](https://datafreakankur.com/machine-learning-kernel-functions-3d-visualization/)
 * CAP curve and CAP curve analysis notes
+* [Classification Pros Cons](./material/Classification_Pros_Cons.pdf)
 
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
