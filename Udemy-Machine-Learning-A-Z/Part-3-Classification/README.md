@@ -38,3 +38,4 @@
 * [Confusion Matrix](https://www.udemy.com/course/machinelearning/learn/lecture/5773382#overview)
 * [Accuracy Paradox](https://www.udemy.com/course/machinelearning/learn/lecture/5773388#overview)
 * [CAP curve](https://www.udemy.com/course/machinelearning/learn/lecture/5798784#overview)
+* [CAP curve](https://www.udemy.com/course/machinelearning/learn/lecture/5773392#overview)

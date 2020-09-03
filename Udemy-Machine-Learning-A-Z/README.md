@@ -43,6 +43,7 @@
 * [Practical case study - Logistic Regression](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/?referralCode=7E62BC258B645C95D9F5)
 * [Types of Kernels - Kernel SVMS](http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/)
 * [Types of Kernels - Kernel SVMS](https://datafreakankur.com/machine-learning-kernel-functions-3d-visualization/)
+* CAP curve and CAP curve analysis notes
 
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
