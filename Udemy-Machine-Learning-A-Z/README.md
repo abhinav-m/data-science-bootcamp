@@ -31,6 +31,7 @@
 
 ## Important Links
 * [Datasets and code google drive link](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d)
+* [Classification / Regression templates for performance evaluation / model selection](https://drive.google.com/drive/folders/1O8vabaxga3ITjCWfwD79Xnyf8RavYuyk)
 * [M L Summary and FAQ PDF](./material/Machine_Learning_A_Z_Q_A.pdf)
 * [Regression Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
 * [Classification Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
