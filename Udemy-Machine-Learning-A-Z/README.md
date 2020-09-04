@@ -19,7 +19,8 @@
     * Naive Bayes - Completed on 23-08-2020
     * Decision Trees - Completed on 25-08-2020
     * Random Forest - Completed on 28-08-2020
-    * Evaluating classification models performance- Currently pursuing
+    * Evaluating classification models performance- Completed on 03-09-2020
+    * Classification Model template performance comparison - Completed on 04-09-2020
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
