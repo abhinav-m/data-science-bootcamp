@@ -11,7 +11,7 @@
     * Random forest Regression - Completed on 29-07-2020
     * Evaluating Regression Models performance - Completed on 04-08-2020
     * Choosing a regression model - Completed on 06-08-2020
-* Part 3 - Classification - Currently Pursuing
+* Part 3 - Classification - Completed on 04-09-2020
     * Logistic Regression - Completed on 08-08-2020
     * K Nearest Neighbours - Completed on 09-08-2020 
     * SVM - Completed on 17-08-2020
@@ -21,6 +21,8 @@
     * Random Forest - Completed on 28-08-2020
     * Evaluating classification models performance- Completed on 03-09-2020
     * Classification Model template performance comparison - Completed on 04-09-2020
+* Part 4 - Clustering - Currently pursuing
+    * K - Means -Clustering - Currently Pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
