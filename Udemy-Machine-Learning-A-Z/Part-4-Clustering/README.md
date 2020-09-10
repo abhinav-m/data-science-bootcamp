@@ -9,3 +9,5 @@
 
 ## Heirarchical Clustering
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5714428#overview)
+* [Lecture-2-Dendogram-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/5714432#overview)
+* [Lecture-3-Clustering-using-Dendograms](https://www.udemy.com/course/machinelearning/learn/lecture/5714438#overview)
