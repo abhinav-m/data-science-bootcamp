@@ -21,9 +21,10 @@
     * Random Forest - Completed on 28-08-2020
     * Evaluating classification models performance- Completed on 03-09-2020
     * Classification Model template performance comparison - Completed on 04-09-2020
-* Part 4 - Clustering - Currently pursuing
-    * K - Means -Clustering - Completed on -09-09-2020
-    * Heirarchical Clustering - Currently pursuing
+* Part 4 - Clustering - Completed on - 10-09-2020
+    * K - Means -Clustering - Completed on - 09-09-2020
+    * Heirarchical Clustering - Completed on - 10-09-2020
+* Part 5 - Association Rule Learning- Currently Pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
