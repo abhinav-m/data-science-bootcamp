@@ -3,4 +3,7 @@
 
 ## Apriori
 
-* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/6455322#overview)
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/6455322#overview) 
+
+## Eclat
+* [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/6455326#overview)
