@@ -58,6 +58,7 @@
 * CAP curve and CAP curve analysis notes
 * [Classification Pros Cons](./material/Classification_Pros_Cons.pdf)
 * [Clustering Pros Cons](./material/Clustering-Pros-Cons.pdf)
+* Upper confidence bound - Regret whitepaper - Austria
 
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
