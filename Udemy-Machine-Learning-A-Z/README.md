@@ -24,9 +24,11 @@
 * Part 4 - Clustering - Completed on - 10-09-2020
     * K - Means -Clustering - Completed on - 09-09-2020
     * Heirarchical Clustering - Completed on - 10-09-2020
-* Part 5 - Association Rule Learning- Currently Pursuing
+* Part 5 - Association Rule Learning- 14-09-2020
     * Apriori - Completed on 13-09-2020
-    * Eclat - Currently pursuing
+    * Eclat - Completed on 14-09-2020
+* Part 6 - Reinforcement Learning - Currently pursuing
+    * Upper Confidence Bound - Currently pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
