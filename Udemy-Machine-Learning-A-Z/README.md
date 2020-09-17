@@ -28,7 +28,8 @@
     * Apriori - Completed on 13-09-2020
     * Eclat - Completed on 14-09-2020
 * Part 6 - Reinforcement Learning - Currently pursuing
-    * Upper Confidence Bound - Currently pursuing
+    * Upper Confidence Bound - Completed on 17-09-2020
+    * Thompson Sampling - Currently pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
