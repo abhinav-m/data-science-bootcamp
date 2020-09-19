@@ -9,3 +9,4 @@
 
 ## Thompson sampling
 * [Lecture-1-Intuition](https://www.udemy.com/course/machinelearning/learn/lecture/6456840#overview)
+* [Lecture-2-UCB-vs-Thompson-Sampling](https://www.udemy.com/course/machinelearning/learn/lecture/6468288#overview)
