@@ -27,10 +27,10 @@
 * Part 5 - Association Rule Learning- 14-09-2020
     * Apriori - Completed on 13-09-2020
     * Eclat - Completed on 14-09-2020
-* Part 6 - Reinforcement Learning - Currently pursuing
+* Part 6 - Reinforcement Learning - Completed on 19-09-2020
     * Upper Confidence Bound - Completed on 17-09-2020
-    * Thompson Sampling - Currently pursuing
-
+    * Thompson Sampling - Completed on 19-09-2020
+* Part 7 - Natural Language Processing - Currently pursuing
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
 * Why using same scaler instance on both training and test set in feature scaling? -> Asked on 04-07-2020
@@ -45,6 +45,7 @@
 * [Regression Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
 * [Classification Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
 * [Upper confidence bound algorithm](./material/UCB_Algorithm_Slide.png)
+* [Thompson sampling algorithm](./material/Thompson_Sampling_Slide.png)
 
 ## Todo:
 * [Multi linear Regression Backward elimination bonus -1](https://www.dropbox.com/sh/pknk0g9yu4z06u7/AADSTzieYEMfs1HHxKHt9j1ba?dl=0)
