@@ -31,6 +31,7 @@
     * Upper Confidence Bound - Completed on 17-09-2020
     * Thompson Sampling - Completed on 19-09-2020
 * Part 7 - Natural Language Processing - Currently pursuing
+    * Bag of words model - Currently pursuing
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
 * Why using same scaler instance on both training and test set in feature scaling? -> Asked on 04-07-2020
