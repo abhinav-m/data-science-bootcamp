@@ -30,8 +30,11 @@
 * Part 6 - Reinforcement Learning - Completed on 19-09-2020
     * Upper Confidence Bound - Completed on 17-09-2020
     * Thompson Sampling - Completed on 19-09-2020
-* Part 7 - Natural Language Processing - Currently pursuing
-    * Bag of words model - Currently pursuing
+* Part 7 - Natural Language Processing - Completed on 24-09-2020
+    * Bag of words model - Completed on 24-09-2020
+* Part 8 - Deep Learning - Currently Pursuing
+  
+
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
 * Why using same scaler instance on both training and test set in feature scaling? -> Asked on 04-07-2020
@@ -63,6 +66,9 @@
 * [Classification Pros Cons](./material/Classification_Pros_Cons.pdf)
 * [Clustering Pros Cons](./material/Clustering-Pros-Cons.pdf)
 * Upper confidence bound - Regret whitepaper - Austria
+* [NLP with BERT guide](https://sdsclub.com/bert-google-nlp-algorithm/)
+* [NLP with BERT course](https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview)
+* [Homework challenge NLP](https://www.udemy.com/course/machinelearning/learn/lecture/6085634#overview)
 
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
