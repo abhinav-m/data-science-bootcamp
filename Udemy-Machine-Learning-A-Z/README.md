@@ -33,7 +33,7 @@
 * Part 7 - Natural Language Processing - Completed on 24-09-2020
     * Bag of words model - Completed on 24-09-2020
 * Part 8 - Deep Learning - Currently Pursuing
-  
+    * Artificial Neural Network - Currently Pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
@@ -69,6 +69,7 @@
 * [NLP with BERT guide](https://sdsclub.com/bert-google-nlp-algorithm/)
 * [NLP with BERT course](https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview)
 * [Homework challenge NLP](https://www.udemy.com/course/machinelearning/learn/lecture/6085634#overview)
+* [Efficient BackProp by Yann LeCun 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
