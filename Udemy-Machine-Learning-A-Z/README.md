@@ -33,7 +33,8 @@
 * Part 7 - Natural Language Processing - Completed on 24-09-2020
     * Bag of words model - Completed on 24-09-2020
 * Part 8 - Deep Learning - Currently Pursuing
-    * Artificial Neural Network - Currently Pursuing
+    * Artificial Neural Networks - Completed on 26-09-2020
+    * Convolutional Neural Networks - Currently Pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
@@ -75,5 +76,6 @@
 * [Neural networks and deep learning - how gradient descent works](http://neuralnetworksanddeeplearning.com/chap2.html) 
 * [Neural network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [ANN for regression free course](https://www.udemy.com/cart/subscribe/course/2968824/)
+* [Ultimate guide to ANN](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
