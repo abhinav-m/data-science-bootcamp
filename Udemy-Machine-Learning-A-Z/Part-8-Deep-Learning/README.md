@@ -11,3 +11,7 @@
 * [Lecture-3-Activation-Function](https://www.udemy.com/course/machinelearning/learn/lecture/6760384#overview)
 * [Lecture-4-How-do-neural-networks-work](https://www.udemy.com/course/machinelearning/learn/lecture/6760386#overview)
 * [Lecture-5-How-do-neural-networks-learn](https://www.udemy.com/course/machinelearning/learn/lecture/6760388#overview)
+* [Lecture-6-Gradient-Descent](https://www.udemy.com/course/machinelearning/learn/lecture/6760390#overview)
+* [Lecture-7-Stochastic-Gradient-Descent](https://www.udemy.com/course/machinelearning/learn/lecture/6760392#overview)
+* [Lecture-8-Back-Propogation](https://www.udemy.com/course/machinelearning/learn/lecture/6760394#overview)
+* [Lecture-9-Busienss-Problem](https://www.udemy.com/course/machinelearning/learn/lecture/6118382#overview)

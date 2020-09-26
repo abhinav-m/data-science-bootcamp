@@ -72,5 +72,7 @@
 * [Efficient BackProp by Yann LeCun 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 * [Deep sparse rectifier neural networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
 * [Cost function in neural networks along with their applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
+* [Neural networks and deep learning - how gradient descent works](http://neuralnetworksanddeeplearning.com/chap2.html) 
+* [Neural network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
