@@ -8,3 +8,4 @@
 ## Artificial Neural Networks
 * [Lecture-1-Plan-Of-Attack](https://www.udemy.com/course/machinelearning/learn/lecture/6760378#overview)
 * [Lecture-2-Neuron](https://www.udemy.com/course/machinelearning/learn/lecture/6760380#overview)
+* [Lecture-3-Activation-Function](https://www.udemy.com/course/machinelearning/learn/lecture/6760384#overview)
