@@ -74,5 +74,6 @@
 * [Cost function in neural networks along with their applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 * [Neural networks and deep learning - how gradient descent works](http://neuralnetworksanddeeplearning.com/chap2.html) 
 * [Neural network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
+* [ANN for regression free course](https://www.udemy.com/cart/subscribe/course/2968824/)
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
