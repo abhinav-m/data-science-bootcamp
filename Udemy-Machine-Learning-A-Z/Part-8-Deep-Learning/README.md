@@ -14,4 +14,4 @@
 * [Lecture-6-Gradient-Descent](https://www.udemy.com/course/machinelearning/learn/lecture/6760390#overview)
 * [Lecture-7-Stochastic-Gradient-Descent](https://www.udemy.com/course/machinelearning/learn/lecture/6760392#overview)
 * [Lecture-8-Back-Propogation](https://www.udemy.com/course/machinelearning/learn/lecture/6760394#overview)
-* [Lecture-9-Busienss-Problem](https://www.udemy.com/course/machinelearning/learn/lecture/6118382#overview)
+* [Lecture-9-Business-Problem](https://www.udemy.com/course/machinelearning/learn/lecture/6118382#overview)
