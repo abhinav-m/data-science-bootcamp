@@ -24,3 +24,5 @@
 * [Lecture-5-Step-2-Max-Pooling](https://www.udemy.com/course/machinelearning/learn/lecture/6761144#overview)
 * [Lecture-6-Step-3-Flattening](https://www.udemy.com/course/machinelearning/learn/lecture/6761146#overview)
 * [Lecture-7-Step-4-Full-Connection](https://www.udemy.com/course/machinelearning/learn/lecture/6761148#overview)
+* [Lecture-8-Summary](https://www.udemy.com/course/machinelearning/learn/lecture/6761150#overview)
+* [Lecture-9-Softmax-and-cross-entropy](https://www.udemy.com/course/machinelearning/learn/lecture/6761152#overview)

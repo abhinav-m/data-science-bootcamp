@@ -84,6 +84,8 @@
 * [Understanding CNN with mathematical models](https://arxiv.org/abs/1609.04112)
 * [Delving Deep into rectifiers](https://arxiv.org/abs/1502.01852)
 * [Evaluation of Pooling operations](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
+* [Deep learning papers](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+* [A friendly introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
   
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
