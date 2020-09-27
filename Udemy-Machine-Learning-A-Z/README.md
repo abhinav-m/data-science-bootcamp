@@ -77,5 +77,8 @@
 * [Neural network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [ANN for regression free course](https://www.udemy.com/cart/subscribe/course/2968824/)
 * [Ultimate guide to ANN](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
+* [Gradient based learning applied to document recognition - Yann Lecun](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.1115)
+* [Introduction to CNN](https://cs.nju.edu.cn/wujx/teaching/15_CNN.pdf)
+* [CNN](https://cs.nju.edu.cn/wujx/)
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.

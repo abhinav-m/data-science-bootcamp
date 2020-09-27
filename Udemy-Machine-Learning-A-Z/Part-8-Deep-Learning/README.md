@@ -15,3 +15,9 @@
 * [Lecture-7-Stochastic-Gradient-Descent](https://www.udemy.com/course/machinelearning/learn/lecture/6760392#overview)
 * [Lecture-8-Back-Propogation](https://www.udemy.com/course/machinelearning/learn/lecture/6760394#overview)
 * [Lecture-9-Business-Problem](https://www.udemy.com/course/machinelearning/learn/lecture/6118382#overview)
+
+## Convolutional Neural Networks
+* [Lecture-1-Plan-Of-Attack](https://www.udemy.com/course/machinelearning/learn/lecture/6761136#overview)
+* [Lecture-2-What-are-Convolutional-Neural-Networks](https://www.udemy.com/course/machinelearning/learn/lecture/6761138#overview)
+* [Lecture-3-Step-1-Convolution-Operator](https://www.udemy.com/course/machinelearning/learn/lecture/6761140#overview)
+* 
