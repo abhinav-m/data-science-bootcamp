@@ -80,5 +80,10 @@
 * [Gradient based learning applied to document recognition - Yann Lecun](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.1115)
 * [Introduction to CNN](https://cs.nju.edu.cn/wujx/teaching/15_CNN.pdf)
 * [CNN](https://cs.nju.edu.cn/wujx/)
+* [Gimp Conv Matrix](docs.gimp.org/en/plug-in-convmatrix.html)
+* [Understanding CNN with mathematical models](https://arxiv.org/abs/1609.04112)
+* [Delving Deep into rectifiers](https://arxiv.org/abs/1502.01852)
+* [Evaluation of Pooling operations](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
+  
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.

@@ -20,4 +20,6 @@
 * [Lecture-1-Plan-Of-Attack](https://www.udemy.com/course/machinelearning/learn/lecture/6761136#overview)
 * [Lecture-2-What-are-Convolutional-Neural-Networks](https://www.udemy.com/course/machinelearning/learn/lecture/6761138#overview)
 * [Lecture-3-Step-1-Convolution-Operator](https://www.udemy.com/course/machinelearning/learn/lecture/6761140#overview)
-* 
+* [Lecture-4-Step-1-b-The-RelU-Layer](https://www.udemy.com/course/machinelearning/learn/lecture/6761142#overview)
+* [Lecture-5-Max-Pooling](https://www.udemy.com/course/machinelearning/learn/lecture/6761144#overview)
+* [Lecture-6-Flattening](https://www.udemy.com/course/machinelearning/learn/lecture/6761146#overview)
