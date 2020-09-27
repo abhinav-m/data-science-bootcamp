@@ -21,5 +21,6 @@
 * [Lecture-2-What-are-Convolutional-Neural-Networks](https://www.udemy.com/course/machinelearning/learn/lecture/6761138#overview)
 * [Lecture-3-Step-1-Convolution-Operator](https://www.udemy.com/course/machinelearning/learn/lecture/6761140#overview)
 * [Lecture-4-Step-1-b-The-RelU-Layer](https://www.udemy.com/course/machinelearning/learn/lecture/6761142#overview)
-* [Lecture-5-Max-Pooling](https://www.udemy.com/course/machinelearning/learn/lecture/6761144#overview)
-* [Lecture-6-Flattening](https://www.udemy.com/course/machinelearning/learn/lecture/6761146#overview)
+* [Lecture-5-Step-2-Max-Pooling](https://www.udemy.com/course/machinelearning/learn/lecture/6761144#overview)
+* [Lecture-6-Step-3-Flattening](https://www.udemy.com/course/machinelearning/learn/lecture/6761146#overview)
+* [Lecture-7-Step-4-Full-Connection](https://www.udemy.com/course/machinelearning/learn/lecture/6761148#overview)
