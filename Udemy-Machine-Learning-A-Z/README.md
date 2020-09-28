@@ -32,9 +32,11 @@
     * Thompson Sampling - Completed on 19-09-2020
 * Part 7 - Natural Language Processing - Completed on 24-09-2020
     * Bag of words model - Completed on 24-09-2020
-* Part 8 - Deep Learning - Currently Pursuing
+* Part 8 - Deep Learning - Completed on 28-09-2020
     * Artificial Neural Networks - Completed on 26-09-2020
-    * Convolutional Neural Networks - Currently Pursuing
+    * Convolutional Neural Networks - Completed on 28-09-2020
+* Part 9 - Dimensionality Reduction - Currently pursuing
+    * Principal Component Analysis - Currently pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
@@ -86,6 +88,8 @@
 * [Evaluation of Pooling operations](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
 * [Deep learning papers](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [A friendly introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
+* [CNN - Bonus Resources](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
+* [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
   
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
