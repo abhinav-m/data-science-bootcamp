@@ -36,7 +36,8 @@
     * Artificial Neural Networks - Completed on 26-09-2020
     * Convolutional Neural Networks - Completed on 28-09-2020
 * Part 9 - Dimensionality Reduction - Currently pursuing
-    * Principal Component Analysis - Currently pursuing
+    * Principal Component Analysis - Completed on 29-09-2020
+    * Linear Discriminant Analysis - Currently Pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
