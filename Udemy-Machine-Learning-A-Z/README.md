@@ -35,9 +35,11 @@
 * Part 8 - Deep Learning - Completed on 28-09-2020
     * Artificial Neural Networks - Completed on 26-09-2020
     * Convolutional Neural Networks - Completed on 28-09-2020
-* Part 9 - Dimensionality Reduction - Currently pursuing
+* Part 9 - Dimensionality Reduction - Completed on 30-09-2020
     * Principal Component Analysis - Completed on 29-09-2020
-    * Linear Discriminant Analysis - Currently Pursuing
+    * Linear Discriminant Analysis - Completed on 30-09-2020
+    * Kernel - PCA - Completed on 30-09-2020
+* Part 10 - Model Selection and boosting - Currently pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
@@ -92,6 +94,7 @@
 * [CNN - Bonus Resources](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 * [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
 * [LDA explanation](https://www.udemy.com/course/machinelearning/learn/lecture/20141692#overview)
+* Applying dimensionality reduction on sample datasets
   
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
