@@ -91,6 +91,7 @@
 * [A friendly introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [CNN - Bonus Resources](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
 * [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
+* [LDA explanation](https://www.udemy.com/course/machinelearning/learn/lecture/20141692#overview)
   
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
