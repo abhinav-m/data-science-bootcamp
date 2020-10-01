@@ -40,6 +40,7 @@
     * Linear Discriminant Analysis - Completed on 30-09-2020
     * Kernel - PCA - Completed on 30-09-2020
 * Part 10 - Model Selection and boosting - Currently pursuing
+    * K fold cross validation - Currently pursuing
 
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
