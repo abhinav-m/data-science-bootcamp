@@ -39,9 +39,11 @@
     * Principal Component Analysis - Completed on 29-09-2020
     * Linear Discriminant Analysis - Completed on 30-09-2020
     * Kernel - PCA - Completed on 30-09-2020
-* Part 10 - Model Selection and boosting - Currently pursuing
-    * K fold cross validation - Currently pursuing
-
+* Part 10 - Model Selection and boosting - Completed on 01-10-2020
+    * K fold cross validation - Completed on 01-10-2020
+    * Grid Search - Completed on 01-10-2020
+    * XG Boost - Completed on 01-10-2020
+  
 ## Doubts
 * Splitting data into test and training sets -> Why not CV as per andrew NG?
 * Why using same scaler instance on both training and test set in feature scaling? -> Asked on 04-07-2020
@@ -96,6 +98,6 @@
 * [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
 * [LDA explanation](https://www.udemy.com/course/machinelearning/learn/lecture/20141692#overview)
 * Applying dimensionality reduction on sample datasets
-  
+* [Cat boost](https://www.superdatascience.com/pages/ml-model-selection-bonus)
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
