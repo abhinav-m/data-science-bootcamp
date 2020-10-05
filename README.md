@@ -7,6 +7,7 @@ A repository curating all my resources and tracking progress towards my goal of 
 - [Coursera machine learning course by Andrew Ng (Matlab)](https://www.coursera.org/learn/machine-learning/home/welcome) -> Completed on 21-06-2020
 - [Playlist on machine learning concepts](https://www.youtube.com/playlist?list=PL_onPhFCkVQhUzcTVgQiC8W2ShZKWlm0s)
 - [Udemy course on machine learning (Python)](https://www.udemy.com/course/machinelearning) -> Completed on 01-10-2020
+- [Blogs / Additional Readups / Todos](./additional-resources/) -> Currently pursuing
 
 ## Data manipulation
 

@@ -49,7 +49,6 @@
 * Why using same scaler instance on both training and test set in feature scaling? -> Asked on 04-07-2020
 * Assumptions of linear regression -> Linearity , Homoscedasticity, Multivariate normality, Independance of errors,Lack of multicollinearity
 * Question on instance unsolved.
-* 
 
 ## Important Links
 * [Datasets and code google drive link](https://drive.google.com/drive/folders/1OFNnrHRZPZ3unWdErjLHod8Ibv2FfG1d)
@@ -59,45 +58,5 @@
 * [Classification Models Pros / Cons](./material/Classification_Pros_Cons.pdf)
 * [Upper confidence bound algorithm](./material/UCB_Algorithm_Slide.png)
 * [Thompson sampling algorithm](./material/Thompson_Sampling_Slide.png)
-
-## Todo:
-* [Multi linear Regression Backward elimination bonus -1](https://www.dropbox.com/sh/pknk0g9yu4z06u7/AADSTzieYEMfs1HHxKHt9j1ba?dl=0)
-* [Multi linear regression Bonus Exercise 2](https://www.superdatascience.com/pages/ml-regression-bonus-2)
-* Least Square Difference and Support Vector Regression reading
-* Least Square - Find literature
-* [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
-* R Square adjusted - notes
-* [Blog for understanding regression and classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification)
-* [Practical case study - Logistic Regression](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/?referralCode=7E62BC258B645C95D9F5)
-* [Types of Kernels - Kernel SVMS](http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/)
-* [Types of Kernels - Kernel SVMS](https://datafreakankur.com/machine-learning-kernel-functions-3d-visualization/)
-* CAP curve and CAP curve analysis notes
-* [Classification Pros Cons](./material/Classification_Pros_Cons.pdf)
-* [Clustering Pros Cons](./material/Clustering-Pros-Cons.pdf)
-* Upper confidence bound - Regret whitepaper - Austria
-* [NLP with BERT guide](https://sdsclub.com/bert-google-nlp-algorithm/)
-* [NLP with BERT course](https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview)
-* [Homework challenge NLP](https://www.udemy.com/course/machinelearning/learn/lecture/6085634#overview)
-* [Efficient BackProp by Yann LeCun 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
-* [Deep sparse rectifier neural networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
-* [Cost function in neural networks along with their applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
-* [Neural networks and deep learning - how gradient descent works](http://neuralnetworksanddeeplearning.com/chap2.html) 
-* [Neural network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
-* [ANN for regression free course](https://www.udemy.com/cart/subscribe/course/2968824/)
-* [Ultimate guide to ANN](https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann)
-* [Gradient based learning applied to document recognition - Yann Lecun](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.138.1115)
-* [Introduction to CNN](https://cs.nju.edu.cn/wujx/teaching/15_CNN.pdf)
-* [CNN](https://cs.nju.edu.cn/wujx/)
-* [Gimp Conv Matrix](docs.gimp.org/en/plug-in-convmatrix.html)
-* [Understanding CNN with mathematical models](https://arxiv.org/abs/1609.04112)
-* [Delving Deep into rectifiers](https://arxiv.org/abs/1502.01852)
-* [Evaluation of Pooling operations](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
-* [Deep learning papers](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
-* [A friendly introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
-* [CNN - Bonus Resources](https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn)
-* [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
-* [LDA explanation](https://www.udemy.com/course/machinelearning/learn/lecture/20141692#overview)
-* Applying dimensionality reduction on sample datasets
-* [Cat boost](https://www.superdatascience.com/pages/ml-model-selection-bonus)
 
 > .ipynb python notebooks can be opened using Anaconda IDE and Jupyter / Spyder notebooks or google colab.
