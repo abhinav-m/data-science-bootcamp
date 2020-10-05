@@ -42,7 +42,8 @@
 * [Deep learning papers](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [A friendly introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 * [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
-
+* [MIT opencourseware least squares](https://www.youtube.com/watch?v=YwZYSTQs-Hk)
+* [Least Squares explanation](https://docs.google.com/document/d/1vXgizn0Zz5VM_mTEfrRqwydfCyn0OY5DNlkieFLRU68/edit)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
