@@ -25,7 +25,7 @@
 ## Blogs / Books:
 * [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
 * [Types of Kernels - Kernel SVMS](http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/)
-* [Types of Kernels - Kernel SVMS](https://datafreakankur.com/machine-learning-kernel-functions-3d-visualization/)
+* [Types of Kernels - Kernel SVMS](https://datafreakankur.com/machine-learning-kernel-functions-3d-visualization/) -> Completed on 06-10-2020
 * [NLP with BERT guide](https://sdsclub.com/bert-google-nlp-algorithm/)
 * [Efficient BackProp by Yann LeCun 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 * [Deep sparse rectifier neural networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
@@ -41,9 +41,10 @@
 * [Evaluation of Pooling operations](http://ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
 * [Deep learning papers](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
 * [A friendly introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
-* [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/)
+* [PCA visualization explanation](https://setosa.io/ev/principal-component-analysis/) -> Completed on 06-10-2020
 * [MIT opencourseware least squares](https://www.youtube.com/watch?v=YwZYSTQs-Hk) -> Completed on 05-10-2020
 * [Least Squares explanation](https://docs.google.com/document/d/1vXgizn0Zz5VM_mTEfrRqwydfCyn0OY5DNlkieFLRU68/edit) -> Completed on 05-10-2020
+* [Stats through visualization](https://setosa.io/ev/)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
