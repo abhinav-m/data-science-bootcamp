@@ -24,7 +24,8 @@
 
 ## Blogs / Books:
 * [SVR  - additional reading](https://core.ac.uk/download/pdf/81523322.pdf)
-* [Types of Kernels - Kernel SVMS](http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/)
+* [Kernel codes in C#](https://github.com/accord-net/framework/tree/development/Sources/Accord.Statistics/Kernels)
+* [Types of Kernels - Kernel SVMS](http://crsouza.com/2010/03/17/kernel-functions-for-machine-learning-applications/) -> Currently pursuing
 * [Types of Kernels - Kernel SVMS](https://datafreakankur.com/machine-learning-kernel-functions-3d-visualization/) -> Completed on 06-10-2020
 * [NLP with BERT guide](https://sdsclub.com/bert-google-nlp-algorithm/)
 * [Efficient BackProp by Yann LeCun 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
