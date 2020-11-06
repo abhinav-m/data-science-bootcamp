@@ -47,6 +47,7 @@
 * [Least Squares explanation](https://docs.google.com/document/d/1vXgizn0Zz5VM_mTEfrRqwydfCyn0OY5DNlkieFLRU68/edit) -> Completed on 05-10-2020
 * [Stats through visualization](https://setosa.io/ev/)
 * [Time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775) -> Currently reviewing
+* [Different types of outliers](https://www.anodot.com/blog/quick-guide-different-types-outliers/)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
