@@ -49,6 +49,7 @@
 * [Time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775) -> Currently reviewing
 * [Different types of outliers](https://www.anodot.com/blog/quick-guide-different-types-outliers/)
 * [Probability Density functions](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions)
+* [Pearsons correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
