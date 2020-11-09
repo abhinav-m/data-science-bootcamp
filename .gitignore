@@ -1,3 +1,9 @@
 # udemy-codes-and-datasets
 
 *datasets
+
+# Csv files for EDA / others
+*.csv
+
+# Python notebook meta
+*.ipynb_checkpoints
