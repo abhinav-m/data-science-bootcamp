@@ -51,6 +51,12 @@
 * [Probability Density functions](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions)
 * [Pearsons correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 
+## Statistics 
+* [Poisson Distribution](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
+* [Geometric Distribution](https://www.math.umd.edu/~millson/teaching/STAT400fall18/slides/article8.pdf)
+* [Negative Binomial Distribution](https://www.sciencedirect.com/topics/mathematics/negative-binomial-distribution)
+* [Sample variance](https://web.ma.utexas.edu/users/mks/M358KInstr/SampleSDPf.pdf)
+
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
 * Applying dimensionality reduction on sample datasets
