@@ -56,6 +56,8 @@
 * [Geometric Distribution](https://www.math.umd.edu/~millson/teaching/STAT400fall18/slides/article8.pdf)
 * [Negative Binomial Distribution](https://www.sciencedirect.com/topics/mathematics/negative-binomial-distribution)
 * [Sample variance](https://web.ma.utexas.edu/users/mks/M358KInstr/SampleSDPf.pdf)
+* [How exit polling works](https://mathforgrownups.com/exit-polling-a-statistics-refresher/)
+* [Exit polling 2](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/exit-poll-explainer/)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
