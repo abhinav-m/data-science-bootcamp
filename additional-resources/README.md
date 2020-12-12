@@ -59,6 +59,7 @@
 * [How exit polling works](https://mathforgrownups.com/exit-polling-a-statistics-refresher/)
 * [Exit polling 2](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/exit-poll-explainer/)
 * [Type 1 and Type 2 errors in hypothesis testing](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
+* [Representative Sampling vs Random Sampling](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
