@@ -61,6 +61,7 @@
 * [Type 1 and Type 2 errors in hypothesis testing](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
 * [Representative Sampling vs Random Sampling](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
 * [Khan Academy mean and variance of bernoulli distribution](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example)
+* [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
