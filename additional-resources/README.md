@@ -62,6 +62,8 @@
 * [Representative Sampling vs Random Sampling](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
 * [Khan Academy mean and variance of bernoulli distribution](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example)
 * [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
+* [A-B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/)
+* [A-B Testing examples](https://blog.optimizely.com/2015/06/04/ecommerce-conversion-optimization-case-studies/)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
