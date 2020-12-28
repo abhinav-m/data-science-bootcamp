@@ -5,5 +5,8 @@
 # Csv files for EDA / others
 *.csv
 
+# Log analysis project is private
+projects/Log-analysis
+
 # Python notebook meta
 *.ipynb_checkpoints
