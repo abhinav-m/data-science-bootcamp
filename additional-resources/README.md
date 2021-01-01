@@ -63,7 +63,7 @@
 * [Khan Academy mean and variance of bernoulli distribution](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example)
 * [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [A-B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/) -> Done 30-12-2020
-* [A-B Testing examples](https://blog.optimizely.com/2015/06/04/ecommerce-conversion-optimization-case-studies/)
+* [A-B Testing examples](https://blog.optimizely.com/2015/06/04/ecommerce-conversion-optimization-case-studies/) -> Done 01-01-2021
 * [Chi Squared Test](https://www.youtube.com/watch?v=jABsbNBPXIk&feature=youtu.be&ab_channel=KhanAcademy)
 * [Penn State - Hypothesis Testing](https://online.stat.psu.edu/stat200/lesson/10/10.2)
 * [ANOVA test](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library)
