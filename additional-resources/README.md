@@ -58,8 +58,8 @@
 * [Sample variance](https://web.ma.utexas.edu/users/mks/M358KInstr/SampleSDPf.pdf)
 * [How exit polling works](https://mathforgrownups.com/exit-polling-a-statistics-refresher/)
 * [Exit polling 2](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/exit-poll-explainer/)
-* [Type 1 and Type 2 errors in hypothesis testing](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
-* [Representative Sampling vs Random Sampling](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/)
+* [Type 1 and Type 2 errors in hypothesis testing](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/) - Read on 01-01-2021 (ReRead)
+* [Representative Sampling vs Random Sampling](https://statisticsbyjim.com/hypothesis-testing/types-errors-hypothesis-testing/) - Wrong link (Correct)
 * [Khan Academy mean and variance of bernoulli distribution](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/binomial-mean-standard-dev-formulas/v/mean-and-variance-of-bernoulli-distribution-example)
 * [Khan Academy - Statistics](https://www.khanacademy.org/math/statistics-probability)
 * [A-B Testing](https://www.optimizely.com/optimization-glossary/ab-testing/) -> Done 30-12-2020
