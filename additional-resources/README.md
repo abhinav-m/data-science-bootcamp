@@ -10,7 +10,7 @@
 * [Multi linear Regression Backward elimination bonus -1](https://www.dropbox.com/sh/pknk0g9yu4z06u7/AADSTzieYEMfs1HHxKHt9j1ba?dl=0)
 * [Multi linear regression Bonus Exercise 2](https://www.superdatascience.com/pages/ml-regression-bonus-2)
 * [Blog for understanding regression and classification](https://www.superdatascience.com/blogs/the-ultimate-guide-to-regression-classification) - Done on 05-10-2020
-* [Practical case study - Logistic Regression](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/?referralCode=7E62BC258B645C95D9F5)
+* [Practical case study - Logistic Regression](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Classification Pros Cons](./material/Classification_Pros_Cons.pdf) //FIXME
 * [Clustering Pros Cons](./material/Clustering-Pros-Cons.pdf)
 * [NLP with BERT course](https://www.udemy.com/course/natural-language-processing-with-bert/learn/lecture/18889310#overview)
@@ -30,6 +30,7 @@
 * [NLP with BERT guide](https://sdsclub.com/bert-google-nlp-algorithm/)
 * [Efficient BackProp by Yann LeCun 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 * [Deep sparse rectifier neural networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+* [Basic Neural Network](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 * [Neural network in 13 lines of python](https://iamtrask.github.io/2015/07/27/python-network-part2/)
 * [Cost function in neural networks along with their applications](https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications)
 * [Neural networks and deep learning - how gradient descent works](http://neuralnetworksanddeeplearning.com/chap2.html) 
@@ -46,6 +47,8 @@
 * [MIT opencourseware least squares](https://www.youtube.com/watch?v=YwZYSTQs-Hk) -> Completed on 05-10-2020
 * [Least Squares explanation](https://docs.google.com/document/d/1vXgizn0Zz5VM_mTEfrRqwydfCyn0OY5DNlkieFLRU68/edit) -> Completed on 05-10-2020
 * [Stats through visualization](https://setosa.io/ev/)
+    * Read through PCA - 02-01-2021
+* [Bayes Theorem and probability](https://www.analyticsvidhya.com/blog/2017/03/conditional-probability-bayes-theorem/) 
 * [Time series analysis](https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-forecasting-70d476bfe775) -> Currently reviewing
 * [Different types of outliers](https://www.anodot.com/blog/quick-guide-different-types-outliers/)
 * [Probability Density functions](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions)
