@@ -70,6 +70,7 @@
 * [Chi Squared Test](https://www.youtube.com/watch?v=jABsbNBPXIk&feature=youtu.be&ab_channel=KhanAcademy)
 * [Penn State - Hypothesis Testing](https://online.stat.psu.edu/stat200/lesson/10/10.2)
 * [ANOVA test](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library)
+* [Z score](https://www.youtube.com/watch?v=Oyjp6Ke8V9I&t=98s&ab_channel=KariAlexander)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
