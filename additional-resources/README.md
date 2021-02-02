@@ -55,6 +55,7 @@
 * [Pearsons correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 * [Expected returns examples - investment](https://www.investopedia.com/terms/e/expectedreturn.asp) - Skimmed on 02-02-2021
 * [Expected and unexpected loss in a bank](https://analystprep.com/study-notes/frm/part-2/credit-risk-measurement-and-management/capital-structure-in-banks-2/)
+* [Expected value probability in games](http://www.dehn.wustl.edu/~blake/courses/WU-Ed6021-2012-Summer/handouts/Expected_Value.pdf)
 
 ## Statistics 
 * [Poisson Distribution](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
