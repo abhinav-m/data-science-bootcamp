@@ -54,6 +54,7 @@
 * [Probability Density functions](https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library/random-variables-continuous/v/probability-density-functions)
 * [Pearsons correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
 * [Expected returns examples - investment](https://www.investopedia.com/terms/e/expectedreturn.asp) - Skimmed on 02-02-2021
+* [Expected and unexpected loss in a bank](https://analystprep.com/study-notes/frm/part-2/credit-risk-measurement-and-management/capital-structure-in-banks-2/)
 
 ## Statistics 
 * [Poisson Distribution](https://towardsdatascience.com/the-poisson-distribution-and-poisson-process-explained-4e2cb17d459)
