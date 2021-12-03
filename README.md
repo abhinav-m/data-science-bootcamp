@@ -15,3 +15,13 @@ A repository curating all my resources and tracking progress towards my goal of 
 * [Kaggle mini course - Introduction to SQL](https://www.kaggle.com/learn/intro-to-sql) -> Completed on 27-06-2020
 * [Kaggle mini course - Advanced SQL](https://www.kaggle.com/learn/advanced-sql) -> Completed on 30-06-2020
   
+
+  ### Project Ideas 
+
+  * Recommender system based on ingredients - Recipes and restaurants ( BASED on SOM taught in class)
+  * Covid Analysis using SOM (impact on economy)
+
+
+  ### Todo:
+  1. Read class research papers.
+  2. Class pending homework IE-5374
