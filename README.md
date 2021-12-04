@@ -20,6 +20,7 @@ A repository curating all my resources and tracking progress towards my goal of 
 
   * Recommender system based on ingredients - Recipes and restaurants ( BASED on SOM taught in class)
   * Covid Analysis using SOM (impact on economy)
+  * Machine learning ( DEEP LEARNING ) using image recognition on ROM data taught in IE-5374 suggested by RK.
 
 
   ### Todo:
