@@ -75,6 +75,7 @@
 * [ANOVA test](https://www.khanacademy.org/math/statistics-probability/analysis-of-variance-anova-library)
 * [Z score](https://www.youtube.com/watch?v=Oyjp6Ke8V9I&t=98s&ab_channel=KariAlexander)
 * [T distribution](http://onlinestatbook.com/2/estimation/t_distribution.html)
+* [Propensity matching](https://www.youtube.com/watch?v=ACVyPp1Fy6Y&ab_channel=DougMcKee)
 
 ## To find:
 * Upper confidence bound - Regret whitepaper - Austria
